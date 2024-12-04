@@ -3,3 +3,5 @@ Una linea 2
 Una linea 3
 
 creación de la rama desarrollo
+
+al final, git son los amigos que hacemos en el camino
